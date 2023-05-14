@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 💻 My multi-disciplinary skills focused em bioinformatics and molecular modeling are differential!
 -🎯  I'm looking to collaborate on molecular modeling, Big Data analysis and Transcriptomics/Proteomics projects.
  -✨ How to reach me: vsantos223@gmail.com
+
 -->
